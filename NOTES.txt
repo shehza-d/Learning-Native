@@ -8,3 +8,30 @@ adb --version
 ```
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+PawelBorkar.jellyfish
+Name: JellyFish Theme
+Id: PawelBorkar.jellyfish
+Description: JellyFish: Theme your code editor will love.
+Version: 0.0.4
+Publisher: Pawel Borkar
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=PawelBorkar.jellyfish
+
+Name: Jelly Theme
+Id: kylethebaker.jelly-theme
+Description: Dark purple for a dark worldl
+Version: 0.0.4
+Publisher: kylethebaker
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=kylethebaker.jelly-theme
+

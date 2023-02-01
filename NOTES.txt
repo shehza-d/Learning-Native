@@ -1,8 +1,0 @@
-29-Jan-2023
-hello world
-
-01-Feb-2023
-android SDK platform tools
-```
-adb --version
-```
